@@ -8,3 +8,17 @@ apt-get install libpcap-dev
 ./configure    
 sudo yersinia -G   
 # Enjoy Yersinia In Graphical modes
+
+Dependencies 
+yersinia have the following dependencies:
+
+libatk1.0-0
+libc6
+libgdk-pixbuf2.0-0
+libglib2.0-0
+libgtk2.0-0
+libncurses6
+libnet1
+libpango-1.0-0
+libpcap0.8
+libtinfo6
